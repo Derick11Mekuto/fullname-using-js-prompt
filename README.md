@@ -2,7 +2,7 @@
 
 Simple JavaScript practice that asks user to enter name and surname using prompt() and display full name on the page.
 
-This is one of my beginner JavaScript projects from when I started learning how to the user input works.
+This is one of my beginner JavaScript projects from 2024 when I started learning how to the user input works.
 
 How it works follow:
 Browser asks user to "Enter name:"
