@@ -13,4 +13,4 @@ The it joins them together like name "+" surname
 Tools used:
 html and Javascript
 
-To run it just open your browser
+To run it just open "fullnamePrompt" using your browser.
